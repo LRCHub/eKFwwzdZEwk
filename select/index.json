@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "antlion",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-14T09:18:46.703164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Antlion",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/01_Antlion_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Antlion (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/02_Antlion_(Instrumental)_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "antlion pit",
+      "artist": "ギルガメッシュ",
+      "has_synced": true,
+      "path": "select/03_antlion_pit_ギルガメッシュ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "antlion pit",
+      "artist": "girugamesh",
+      "has_synced": true,
+      "path": "select/04_antlion_pit_girugamesh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Antlion",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/05_Antlion_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Antlion (Album Version)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/06_Antlion_(Album_Version)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "antlion",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_antlion_Chevon.txt"
+    }
+  ]
+}
